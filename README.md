@@ -2,6 +2,8 @@
 
 A Python-based search engine that uses TF-IDF (Term Frequency-Inverse Document Frequency) algorithm with autocorrect capabilities to find relevant documents based on search queries.
 
+![search_results_2](https://github.com/user-attachments/assets/d99a942a-d8d2-472f-a5f4-60130fe23c19)
+
 ## Main Features
 
 1. **Smart Word Importance Calculation**
